@@ -38,5 +38,5 @@
 	branch = master
 [submodule "llvm"]
 	path = llvm
-	url = https://github.com/llvm/llvm-project.git
-	branch = release/17.x
+	url = https://github.com/WindbeutelBaron/BA_llvm_17.0.1.git
+	branch = master
